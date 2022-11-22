@@ -4,10 +4,6 @@ using namespace std;
 
 int main()
 {
-    int i=15;
-    int j=0;
-    i=i+i;
-    cout<<"i="<<i;
-	cout<<"j="<<j;
+    int i=1;
     return 0;
 }
